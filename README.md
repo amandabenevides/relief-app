@@ -10,7 +10,11 @@
 
 <p align="center">
 O projeto Relief possui como principal função auxiliar a população durante a pandemia do novo Coronavírus, permitindo que pessoas possam enviar solicitações de pedidos de doações de itens como materiais de higiene, alimentos e outros, que possam auxiliar a pessoas necessitadas.
+  <br> Desenvolvido por:
+[Amanda Benevides](https://github.com/amandabenevides) e  [Thiago Rodrigues](https://github.com/thiagord)
 </p>
+
+
 
 ------------
 
