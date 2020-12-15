@@ -24,6 +24,10 @@ O projeto Relief possui como principal função auxiliar a população durante a
 
 - React JS
 
+- Google Maps Api
+
+- NPM
+
 - Node.js
 
 - MongoDB
